@@ -1,4 +1,4 @@
-FROM ronalex/mesos:0.27.0
+FROM ronalex/mesos:latest
 MAINTAINER RedJack, LLC
 
 EXPOSE 5050
