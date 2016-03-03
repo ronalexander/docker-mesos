@@ -1,4 +1,4 @@
-FROM ralex/mesos:0.27.0
+FROM ronalex/mesos:0.27.0
 MAINTAINER RedJack, LLC
 
 # Mesos fetcher uses unzip to extract staged zip files
